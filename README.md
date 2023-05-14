@@ -1,4 +1,4 @@
-# Bienvenido al respositorio de TV4 Interactivo 👋
+# Bienvenido al perfil de TV4 Interactivo 👋
 
 ## Aquí encontrarás nuestras **Notas Interactivas**
 </br>
