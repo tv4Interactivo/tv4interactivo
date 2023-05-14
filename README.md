@@ -2,5 +2,5 @@
 
 ## Aquí encontrarás nuestras **Notas Interactivas**
 </br>
-Entra a los repositorios y da click al link para ver las notas 
+Ve a la pestaña de "repositorios" y busca donde dice "Da click al siguiente link" en cada repositorio para ver en vivo la Nota Interactiva
  
